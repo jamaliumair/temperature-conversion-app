@@ -55,3 +55,5 @@ function convertTemperature() {
     
     showMsg.innerHTML = `Converted Temperature: ${convertedTemperature.toFixed(2)} ${outputUnit}`;
 }
+
+
